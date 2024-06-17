@@ -1,0 +1,19 @@
+{
+  "name": "task_map",
+  "version": "1.0.0",
+  "description": "Домашнее задание к лекции «Контейнеры» Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikan152435/Task_Map.git"
+  },
+  "author": "NikaN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikan152435/Task_Map/issues"
+  },
+  "homepage": "https://github.com/Nikan152435/Task_Map#readme"
+}

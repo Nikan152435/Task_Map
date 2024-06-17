@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/error_repository/__init__.py
+src/error_repository/error_repository.py
+src/error_repository.egg-info/PKG-INFO
+src/error_repository.egg-info/SOURCES.txt
+src/error_repository.egg-info/dependency_links.txt
+src/error_repository.egg-info/top_level.txt
